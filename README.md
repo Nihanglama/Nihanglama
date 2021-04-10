@@ -1,18 +1,23 @@
-### Hi there 👋 My name is <h1 style="color:blue;">Nihang Lama</h1> 
+### Hi there 👋,  Subash Tamang Here 
+#### Student & Active learner
+
+Skills: C++ / C /Python /Django /HTML / CSS
+
+- 🌱 I’m currently learning Python,Cybersecurity 
+- 👯 I’m looking to collaborate on security Research 
+- 😄 Pronouns: he/him 
 
 
-###About me :
-- 🤜🏻 I am currently persuing my bachlors Degree on Bsc Csit
-- 🔭 I’m currently working on C++ and python projects
-- 🌱 I’m currently learning cybersecurity
-- 👯 I’m looking to collaborate on active learner
-- 🤔 I’m looking for help with security resercher
-- 💬 Ask me about C++,Python,Networking
-- 📫 How to reach me: 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Nihanglama)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/subash-tamag-/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/nihang.lama)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/nihang_lama/)  
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nihanglama)](https://github.com/anuraghazra/github-readme-stats)
 
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: haha
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nihanglama&show_icons=true)  
 
-<div>
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Nihanglama)  
 
+![GitHub metrics](https://metrics.lecoq.io/Nihanglama)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Nihanglama)  
+
+![Profile views](https://gpvc.arturio.dev/Nihanglama)  
