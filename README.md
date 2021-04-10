@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there My name is <h1 style="color:blue;">Nihang Lama</h1> 
+
 
 Here are some ideas to get you started:
 
@@ -11,4 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: haha
 
+<div>
 
