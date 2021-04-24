@@ -1,4 +1,4 @@
-### Hi there 👋,  Subash Tamang Here 
+### Hi 👋!! Myself Subash Tamang
 #### Student & Active learner
 
 Skills: C++ / C /Python /Django /HTML / CSS
