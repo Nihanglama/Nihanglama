@@ -3,8 +3,8 @@
 
 Skills: C++ / C /Python /Django /HTML / CSS
 
-- 🌱 I’m currently learning Python,Cybersecurity 
-- 👯 I’m looking to collaborate on security Research 
+- 🌱 I’m currently learning Python,Django 
+- 👯 I’m looking to collaborate on Backend Projects
 - 😄 Pronouns: he/him 
 
 
