@@ -1,10 +1,10 @@
 ### Hi 👋!! Myself Subash Tamang
 #### Student & Active learner
 
-Skills: C++ / C /Python /Django /HTML / CSS
+Skills: C++ / C /Python /Django /Django Restframework/java/javascript/ Postgres/ sqlite /HTML / CSS 
 
-- 🌱 I’m currently learning Python,Django 
-- 👯 I’m looking to collaborate on Backend Projects
+- 🌱 I’m currently on my 7th sem BscCSIT 
+- 👯 I’m looking to collaborate on Python Projects
 - 😄 Pronouns: he/him 
 
 
